@@ -1,5 +1,6 @@
-I want to encrypt/decrypt DATG based on Caesar Cipher.
-Your answer 'TEST2' is not a valid integer for the shift key number.
+I want to encrypt/decrypt ROHU based on Caesar Cipher.
+Your answer '2.3' is not a valid integer for the shift key number.
 Your answer '-3.4' is not a valid integer for the shift key number.
-Shift key number = -19
+Your answer 'TESTER' is not a valid integer for the shift key number.
+Shift key number = 19
 Here is your encrypted/decrypted message: KHAN
