@@ -2,7 +2,7 @@
 ### Homework 1: Tic-tac-toe Board
 [Tic-tac-toe Board (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.07_homework01_tictactoe.ipynb)
 
-[Tic-tac-toe Board (Text File)](https://github.com/nikko090196/AWS_Learningg/blob/main/23.11.07_homework01_tictactoe.txt)
+[Tic-tac-toe Board (Text File)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.07_homework01_tictactoe.txt)
 
 ### Homework 2: Caesar Cipher
 [Caesar Cipher (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.09_homework02_Caesar_Cipher_Official.ipynb)
