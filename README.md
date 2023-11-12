@@ -17,4 +17,4 @@
 ### Homework 4: Object-Oriented Programming (Classes & Object)
 [Car Class: Behaviour Customisation](https://github.com/nikko090196/repository_learning/blob/main/23.11.10_homework05_class_customise_behaviour.ipynb)
 
-[Shape Class: Finding area of shapes](https://github.com/nikko090196/repository_learning/blob/main/23.11.10_homework06_class_shapes.ipynb)
+[Shape Class: Finding Area of Different Shapes](https://github.com/nikko090196/repository_learning/blob/main/23.11.10_homework06_class_shapes.ipynb)
