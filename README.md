@@ -7,9 +7,9 @@
 ### Homework 2: Caesar Cipher
 [Caesar Cipher_ Code and Results (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.09_homework02_Caesar_Cipher_Official.ipynb)
 
-[Caesar Cipher_Code (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.09_homework02_Caesar_Cipher_Official_OutputTextFile.ipynb)
+[Caesar Cipher_Code only (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.09_homework02_Caesar_Cipher_Official_OutputTextFile.ipynb)
 
-[Caesare Cipher_Result linked to Code (Text File)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.09_homework02_Caesar_Cipher_Official_OutputTextFile.txt)
+[Caesare Cipher_Result only (Text File)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.09_homework02_Caesar_Cipher_Official_OutputTextFile.txt)
 
 ### Homework 3: AES Encryption
 
