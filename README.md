@@ -1,6 +1,6 @@
 # AWS re/Start Homework
 ### Homework 1: Tic-tac-toe Board
-[Tic-tac-toe Board (Jupyter Notebook)](https://pages.github.com/](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.07_homework01_tictactoe.ipynb))
+[Tic-tac-toe Board (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.07_homework01_tictactoe.ipynb)
 
 [Tic-tac-toe Board (Text File)](https://github.com/nikko090196/AWS_Learningg/blob/main/23.11.07_homework01_tictactoe.txt)
 
