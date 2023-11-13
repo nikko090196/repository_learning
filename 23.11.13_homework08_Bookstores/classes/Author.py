@@ -16,6 +16,5 @@ class Author(BaseModel):
     @classmethod
     def check_valid_author_id(cls, author_id: str):
         pattern = r"[A-Z]{4}-[0-9]{4}"
-        assert re.match(
-            pattern, author_id), "Author ID is not valid following the format XXXX-YYYY, X is CAPITAL LETTER, Y is a number"
+        assert re.match(pattern, author_id), "Author ID is not valid following the format XXXX-YYYY, X is CAPITAL LETTER, Y is a number"
         return author_id
