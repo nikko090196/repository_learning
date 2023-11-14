@@ -15,14 +15,14 @@
 
 
 ### Homework 5 & 6: Object-Oriented Programming (Classes & Object)
-[Car Class: Behaviour Customisation](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.10_homework05_class_customise_behaviour.ipynb)
+[Car Class: Behaviour Customisation (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.10_homework05_class_customise_behaviour.ipynb)
 
-[Shape Class: Finding Area of Different Shapes](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.10_homework06_class_shapes.ipynb)
+[Shape Class: Finding Area of Different Shapes (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.10_homework06_class_shapes.ipynb)
 
 
 ### Homework 7 & 8: Module Exercises
-[Module Exercise](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework07_ModuleExcercise/main.py)
+[Module Exercise (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework07_ModuleExcercise/main.py)
 
-[Bookstore Exercise](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework08_Bookstores_Part1/main.py)
+[Bookstore Exercise - Part 1 (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework08_Bookstores_Part1/main.py)
 
-[Bookstore Exercise](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework08_Bookstores_Part2/main.py)
+[Bookstore Exercise - Part 2 (Jupyter Notebook)](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework08_Bookstores_Part2/main.py)
