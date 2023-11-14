@@ -23,4 +23,6 @@
 ### Homework 7 & 8: Module Exercises
 [Module Exercise](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework07_ModuleExcercise/main.py)
 
-[Bookstore Exercise](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework08_Bookstores/main.py)
+[Bookstore Exercise](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework08_Bookstores_Part1/main.py)
+
+[Bookstore Exercise](https://github.com/nikko090196/AWS_Learning/blob/main/23.11.13_homework08_Bookstores_Part2/main.py)
