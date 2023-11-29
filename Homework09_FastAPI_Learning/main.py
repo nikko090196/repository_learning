@@ -6,6 +6,9 @@ from fastapi import FastAPI, HTTPException
 app = FastAPI()
 
 my_inventory_items_dict: Dict[str, InventoryItem] = {} # {}equal to empty dictionary
+#Why do we have a set up in line 8:
+#To create a dict to serve as a working memory. Later on, we can look up for the inventory item based on the serial number of inventory item.
+#eg. my_inventory_item_dict (later on) = {"ABC": item1, "XYZ": item2}
 
 @app.put("/items/{serial_num}")
 def create_item(item: InventoryItem, serial_num: str) -> None: 
