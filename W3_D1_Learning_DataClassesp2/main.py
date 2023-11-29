@@ -9,7 +9,7 @@ class ItemOrigin(BaseModel):
     @classmethod #you only make sub-sequent function available to the class, not the object
     def check_valid_country(cls, country: str): #defind class method
         assert country == "Ethiopia", "Country's name must be Ethopia"
-        
+        return country
 
 class InventoryItem(BaseModel):
     name: str 
