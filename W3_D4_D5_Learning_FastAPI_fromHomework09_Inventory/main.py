@@ -6,8 +6,10 @@ app = FastAPI()
 
 # Create a dictionary to store item:
 # The key is string, and the value is InventoryItem, ={} starts the dictionary with an empty key-value pair.
-my_inventory_item_dict: Dict[str, InventoryItem] = {}
-
+my_inventory_item_dict: Dict[str, InventoryItem] = {} # {}equal to empty dictionary
+#Why do we have a set up in line 9:
+#To create a dict to serve as a working memory. Later on, we can look up for the inventory item based on the serial number of inventory item.
+#eg. my_inventory_item_dict (later on) = {"ABC": item1, "XYZ": item2}
 
 @app.put("/inventoryitems/{serial_number}")
 def create_item(serial_number: str, item1: InventoryItem) -> None: #Type hint with None as we do not return anything.
