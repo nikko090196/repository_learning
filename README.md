@@ -31,7 +31,7 @@
 
 
 ### Homework 9.1: API Request
-[Inventory Items (Python)](https://github.com/nikko090196/AWS_Learning/tree/main/Homework09_and_10_FastAPI_Bookstores)
+[Inventory Items (Python)](https://github.com/nikko090196/AWS_Learning/blob/main/Homework09_and_10_FastAPI_Bookstores/main.py)
 
 ### Homework 9.2 & 10: API Request + Testing API
 [Bookstores (Python)](https://github.com/nikko090196/AWS_Learning/tree/main/Homework09_10_FastAPI_Bookstores)
