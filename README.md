@@ -35,6 +35,7 @@
 
 
 ### Homework 9.2 & 10: API Request + Testing API
-[Bookstores (Python)](https://github.com/nikko090196/AWS_Learning/tree/main/Homework09_and_10_FastAPI_Bookstores)
+[Bookstores - API Request (Python)]([https://github.com/nikko090196/AWS_Learning/blob/main/Homework09_and_10_FastAPI_Bookstores/main.py]
+[Bookstores - Testing API (Python)]([https://github.com/nikko090196/AWS_Learning/blob/main/Homework09_and_10_FastAPI_Bookstores/test/test_main.py]
 
 
