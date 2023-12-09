@@ -70,6 +70,16 @@ def test_get_api_1():
 
 # DELETE API:
 def test_delete_api():
+    response_put = client.put("books/TheSkyIsBlue", json=test_data)
+    assert response_put.status_code == 200
+
+    response_get = client.get("books/TheSkyIsBlue")
+    assert response_get.status_code == 200
+
+    response_put_data, response_get_data = json.loads(response_put.text), json.loads(
+        response_get.text
+    )
+    assert response_put_data == response_get_data
     response_delete = client.delete("books/TheSkyIsBlue")
     assert response_delete.status_code == 200
     response_get_1 = client.get("books/TheSkyIsBlue")
